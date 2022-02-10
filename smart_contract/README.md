@@ -1,4 +1,10 @@
-# Basic Sample Hardhat Project
+WEb 3 page using solidity React.js
+Tailwind CSS
+
+
+# Dapp that can send etherum to any wallet Via connection to meta mask.
+NfT coffee collection themed.
+Futue Implementation NFT market place for Collection (ability to mint nft from origonal collection)
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
 
